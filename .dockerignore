@@ -1,0 +1,8 @@
+**
+
+!core
+!djangoProject
+!entrypoint.sh
+!manage.py
+!poetry.lock
+!pyproject.toml
